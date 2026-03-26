@@ -1,58 +1,67 @@
-# 🛡️ BÀI 1: TỔNG QUAN VỀ BẢO MẬT VÀ AN TOÀN MẠNG
+# 🛡️ BÀI 1. TỔNG QUAN VỀ BẢO MẬT VÀ AN TOÀN MẠNG
+📖 Bài 1: Tổng quan về bảo mật và an toàn mạng
 
----
+1️⃣ Các khái niệm chung
+2️⃣ Nhu cầu bảo vệ thông tin
 
-## [cite_start]1. Các khái niệm chung [cite: 3, 5]
-### 👤 a. [cite_start]Đối tượng tấn công mạng (Intruder) [cite: 6]
-* [cite_start]**Cybercriminals:** Tội phạm mạng[cite: 7].
-* [cite_start]**Ransomware:** Mã độc[cite: 8].
-* [cite_start]**State-Sponsored Attackers:** Tấn công do chính phủ bảo trợ[cite: 9].
-* [cite_start]**Hacktivists:** Tin tặc hoạt động vì lý tưởng[cite: 10].
-* [cite_start]**Insider:** Nội gián[cite: 11].
+## 1️⃣ Các khái niệm chung
+### 👤 a. Đối tượng tấn công mạng (Intruder)
+* 🦹 Cybercriminals: Tội phạm mạngp
+* 🦠 Ransomware: Mã độc.
+* 🏛️ State-Sponsored Attackers (Tấn công do chính phủ bảo trợ).
+* ✊ Hacktivists Tin tặc hoạt động vì lý tưởng).
+* 🕵️ Insider: Nội gián
 
-### ⚠️ b. [cite_start]Các lỗ hổng bảo mật (Vulnerabilities) [cite: 12]
-* [cite_start]💻 **Software Vulnerabilities:** Lỗ hổng phần mềm[cite: 13].
-* [cite_start]⚙️ **Configuration Vulnerabilities:** Lỗ hổng cấu hình[cite: 15].
-* [cite_start]🧠 **Human Vulnerabilities:** Lỗ hổng con người[cite: 17].
+### ⚠️ b. Các lỗ hổng bảo mật (Vulnerabilities)
+* 💻 Software Vulnerabilities
+* ⚙️ Configuaration Vulnerabilities
+* 🧠 Human Vulnerabilities
 
----
+## 2️⃣ Nhu cầu bảo vệ thông tin
+### ❓ a. Tại sao phải bảo vệ thông tin
+* 📈 Sự gia tăng của tội phạm mạng
+* 💎 Giá trị của dữ liệu
+* 🌐 Sự phụ thuộc vào công nghệ
 
-## [cite_start]2. Nhu cầu bảo vệ thông tin [cite: 4, 18]
-### [cite_start]❓ Tại sao phải bảo vệ thông tin? [cite: 19]
-* [cite_start]📈 Sự gia tăng của tội phạm mạng[cite: 20].
-* [cite_start]💎 Giá trị của dữ liệu[cite: 21].
-* [cite_start]🌐 Sự phụ thuộc vào công nghệ[cite: 22].
+### 🔒 b. Data protection
+* 🤫 Confidentiality.
+* 🛡️ Integrity.
+* ✅ Availability.
 
-### [cite_start]🔒 Bảo vệ dữ liệu (Data Protection) [cite: 23]
-* [cite_start]**Confidentiality:** Tính bảo mật[cite: 24].
-* [cite_start]**Integrity:** Tính toàn vẹn[cite: 25].
-* [cite_start]**Availability:** Tính sẵn sàng[cite: 26].
+## 3️⃣ Bảo vệ tài nguyên sử dụng trên mạng – Enviroment Protection
+* ⚡ Băng thông và năng suất
+* 🖥️ Thiết bị phần cứng
+* 🆔 Bảo vệ danh tính (Identity)
 
----
+## 4️⃣ Bảo vệ danh tiếng của cơ quan
+👨‍🎓 TRAN DINH LONG / CNT24T1043
 
-## 3. Các lớp phòng thủ & Giải pháp
-* [cite_start]🚀 **Bảo vệ tài nguyên:** Băng thông, năng suất và thiết bị phần cứng[cite: 27, 28, 29].
-* [cite_start]🆔 **Bảo vệ danh tính (Identity):** Đảm bảo an toàn quyền truy cập[cite: 30].
-* [cite_start]🏢 **Bảo vệ danh tiếng cơ quan:** Củng cố niềm tin khách hàng, giá trị thương hiệu và tránh rủi ro pháp lý[cite: 31, 33, 34, 35].
+* 🤝 Niềm tin của khách hàng:
+* 🌟 Giá trị thương hiệu:
+* ⚖️ Tránh rủi ro pháp lý và tài Chinh:
 
-### [cite_start]🛠️ Công cụ bảo mật kỹ thuật [cite: 36]
-1. [cite_start]**Tường lửa (Firewall):** "Người gác cổng" hệ thống[cite: 37, 38].
-2. [cite_start]**IDS/IPS:** Hệ thống phát hiện (IDS) và ngăn chặn (IPS) xâm nhập[cite: 39, 40, 41].
-3. [cite_start]**IAM & MFA:** Quản lý danh tính và xác thực đa yếu tố (Mật khẩu + OTP/Vân tay)[cite: 42, 43, 44].
-4. [cite_start]**Mã hóa (Encryption):** "Lá chắn cuối cùng" cho dữ liệu[cite: 46].
-5. [cite_start]**DLP (Data Loss Prevention):** Giải pháp chống thất thoát dữ liệu[cite: 47].
+## 🛠️ Các lớp bảo mật:
+🔥 Tường lửa (Firewall) - "Người gác cổng"
+(người gác công)
+🚨 Hệ thống phát hiện và ngăn chặn xâm nhập (IDS/IPS)
+* 👁️ IDS (Intrusion Detection System):
+* 🛑 IPS (Intrusion Prevention System)
+🔑 Hệ thống quản lý danh tính và truy cập (IAM)
+* 📱 Xác thực đa yếu tố (MFA): Yêu cầu ít nhất 2 lớp bảo vệ (Mật khẩu + Mã OTP hoặc Vân tay).
+## 5. 🔐 Mã hóa (Encryption) - "Lá chắn cuối cùng"
+* 🚫 Giải pháp chống thất thoát dữ liệu (DLP - Data Loss Prevention)
 
----
+## 🎣 Kịch bản: Cuộc tấn công bằng Email lừa đảo (Phishing)
+🎯 Mục tiêu của Hacker: Chiếm quyền điều khiển máy chủ chứa dữ liệu khách hàng của cơ quan bạn.
 
-## [cite_start]🎣 Kịch bản tấn công: Email lừa đảo (Phishing) [cite: 48, 57]
-[cite_start]**Mục tiêu:** Chiếm quyền điều khiển máy chủ chứa dữ liệu khách hàng[cite: 49, 50, 58, 59].
+**Giai đoạn 1**: Đột nhập (Infiltration)
+* 🦹 Hacker (Intruder): Gửi một email giả danh thông báo từ cơ quan thuế, đính kèm một tệp PDF chứa mã độc ngầm.
+* 🛡️ Lớp bảo vệ 1 (Email Security & Firewall):
+* 👤 Lớp bảo vệ 2 (Con người - Human): Giải pháp chống thất thoát dữ liệu (DLP - Data Loss Prevention)
 
-| Giai đoạn | Hành động của Hacker | Lớp bảo vệ tương ứng |
-| :--- | :--- | :--- |
-| **1. [cite_start]Đột nhập (Infiltration)** [cite: 51, 61] | [cite_start]Gửi email giả danh cơ quan thuế kèm tệp PDF chứa mã độc[cite: 52, 53, 62]. | [cite_start]Email Security, Firewall & Con người (DLP)[cite: 54, 55, 56, 63, 64]. |
-| **2. [cite_start]Chiếm quyền (Exploitation)** [cite: 65] | Khai thác hệ thống sau khi xâm nhập thành công. | |
-| **3. [cite_start]Di chuyển ngang (Lateral Movement)** [cite: 66] | [cite_start]Dò quét mật khẩu để đăng nhập vào Máy chủ dữ liệu (Server)[cite: 67]. | |
-| **4. [cite_start]Đánh cắp dữ liệu (Exfiltration)** [cite: 68] | Chuyển dữ liệu trái phép ra bên ngoài. | |
+**🔓 Giai đoạn 2**: Chiếm quyền kiểm soát (Exploitation)
+**🕸️ Giai đoạn 3**: Di chuyển ngang (Lateral Movement)
+tìm cách dò quét mật khẩu để đăng nhập vào Máy chủ dữ liệu (Server).
+**📤 Giai đoạn 4**: Đánh cắp dữ liệu (Exfiltration)
 
----
-[cite_start]👤 **Sinh viên thực hiện:** TRAN DINH LONG / CNT24T1043 [cite: 32, 60, 69]
+👨‍🎓 TRAN DINH LONG / CNT24T1043
