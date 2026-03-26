@@ -1,4 +1,4 @@
-# [cite_start]🛡️ BÀI 1: TỔNG QUAN VỀ BẢO MẬT VÀ AN TOÀN MẠNG [cite: 1, 2]
+# 🛡️ BÀI 1: TỔNG QUAN VỀ BẢO MẬT VÀ AN TOÀN MẠNG
 
 ---
 
@@ -30,16 +30,16 @@
 
 ---
 
-## [cite_start]3. Các lớp phòng thủ & Giải pháp [cite: 27, 36]
+## 3. Các lớp phòng thủ & Giải pháp
 * [cite_start]🚀 **Bảo vệ tài nguyên:** Băng thông, năng suất và thiết bị phần cứng[cite: 27, 28, 29].
 * [cite_start]🆔 **Bảo vệ danh tính (Identity):** Đảm bảo an toàn quyền truy cập[cite: 30].
 * [cite_start]🏢 **Bảo vệ danh tiếng cơ quan:** Củng cố niềm tin khách hàng, giá trị thương hiệu và tránh rủi ro pháp lý[cite: 31, 33, 34, 35].
 
-### 🛠️ Công cụ bảo mật kỹ thuật
+### [cite_start]🛠️ Công cụ bảo mật kỹ thuật [cite: 36]
 1. [cite_start]**Tường lửa (Firewall):** "Người gác cổng" hệ thống[cite: 37, 38].
-2. [cite_start]**IDS/IPS:** Hệ thống phát hiện và ngăn chặn xâm nhập[cite: 39, 40, 41].
+2. [cite_start]**IDS/IPS:** Hệ thống phát hiện (IDS) và ngăn chặn (IPS) xâm nhập[cite: 39, 40, 41].
 3. [cite_start]**IAM & MFA:** Quản lý danh tính và xác thực đa yếu tố (Mật khẩu + OTP/Vân tay)[cite: 42, 43, 44].
-4. [cite_start]**Mã hóa (Encryption):** "Lá chắn cuối cùng" cho dữ liệu[cite: 45, 46].
+4. [cite_start]**Mã hóa (Encryption):** "Lá chắn cuối cùng" cho dữ liệu[cite: 46].
 5. [cite_start]**DLP (Data Loss Prevention):** Giải pháp chống thất thoát dữ liệu[cite: 47].
 
 ---
